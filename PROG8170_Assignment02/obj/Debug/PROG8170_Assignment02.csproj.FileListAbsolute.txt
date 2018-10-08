@@ -5,3 +5,6 @@ C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment
 C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.csproj.CoreCompileInputs.cache
 C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.exe
 C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.pdb
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\bin\Debug\nunit.framework.dll
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\bin\Debug\nunit.framework.xml
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\bin\Debug\PROG8170_Assignment02.exe.config
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\bin\Debug\PROG8170_Assignment02.exe
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\bin\Debug\PROG8170_Assignment02.pdb
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.csprojAssemblyReference.cache
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.exe
+C:\Users\Jasveer\Desktop\QA-assignment\PROG8170_Assignment02\PROG8170_Assignment02\PROG8170_Assignment02\obj\Debug\PROG8170_Assignment02.pdb
